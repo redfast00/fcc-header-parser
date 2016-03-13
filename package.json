@@ -1,0 +1,8 @@
+{
+  "name": "fcc-header-parser",
+  "description": "A heroku header-parser that detects OS, language and IP-address",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  }
+}
